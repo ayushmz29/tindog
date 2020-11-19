@@ -1,0 +1,5 @@
+{
+    "indent_inner_html" : true,
+    "newline_between_rules":true,
+    "space_in_empty_paren":false
+}
