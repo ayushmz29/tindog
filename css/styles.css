@@ -37,7 +37,7 @@ h1 {
 .phone-mockup {
     position: relative;
     z-index: 0;
-    width: 65%;
+    width: 52%;
     transform: rotate(21deg);
 }
 
@@ -61,7 +61,7 @@ h1 {
     background-color: white;
     position: relative;
     z-index: 1;
-    top: -6rem;
+    top: -8rem;
 }
 
 .features-container {
