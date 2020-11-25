@@ -29,9 +29,12 @@ h1 {
     text-align: left;
 }
 
+.download-btn-container{
+       text-align: left;
+}
+
 .download-btn {
-    text-align: left;
-    margin: 3rem 0;
+    margin: 5% 3% 5% 0;
 }
 
 .phone-mockup {
@@ -128,7 +131,6 @@ h1 {
     #testimonials-section{
         margin:0;
     }
-
 }
 
 /* Press Section */
@@ -155,4 +157,26 @@ h1 {
 }
 .pricing-column{
     padding: 3% 2%;
+}
+
+/* CTA-Section */
+#cta-section{
+    background-color: #FC7F7F;
+    padding: 9% 15%;
+}
+
+#cta-section h3{
+    color: aliceblue;
+    font-size: 3rem;
+}
+
+/* Footer-Section */
+
+#footer-section{
+    background-color: white;
+    padding: 7% 15%;
+}
+
+.social-icons{
+    margin: 20px 10px;
 }
