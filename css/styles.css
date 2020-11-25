@@ -159,7 +159,7 @@ h1 {
 
 @media screen and (max-width:991px) {
     .phone-mockup {
-        width: 35%;
+        width: 50%;
         transform: rotate(0deg);
     }
 
